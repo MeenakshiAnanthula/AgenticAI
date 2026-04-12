@@ -3,6 +3,7 @@ print("Welcome to Product Price Tracker")
 collected_products = []
 
 exit_word = ""
+# collecting 3 products from user for which price needs to be tracked with while loop
 while True:
     i = 0
     print("\n" + "=" * 80)
@@ -17,13 +18,14 @@ while True:
     )
     if exit_word.lower() == "done":
         break
-
+# printing the product details
 print("========= Product Details ======")
 for i, product in enumerate(collected_products, start=1):
     print(
         f"Product{i}:\n Product Name: {product['Product Name']}\n Current Price: {product['Current Price']} \n Currency: {product['Currency']}"
     )
 
+# checking length of list and printing status message
 if len(collected_products) == 3:
     print("You have added 3 products - ready to track their prices!")
 elif len(collected_products) > 3:
@@ -32,7 +34,7 @@ else:
     print(
         f"You have collected {len(collected_products)} products. Missing {3-len(collected_products)} more product to be added."
     )
-
+# using list comprehension to filter taiwan products
 tw_products = [item for item in collected_products if item["Currency"] in ["NTD"]]
 
 
