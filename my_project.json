@@ -1,0 +1,13 @@
+[
+  {
+    "ProductName": "LG Refrigerator",
+    "CurrentPrice": "50000",
+    "TargetPrice": "43000",
+    "Currency": "INR",
+    "tags": [
+      "home",
+      "appliances",
+      "food"
+    ]
+  }
+]
