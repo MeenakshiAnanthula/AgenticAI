@@ -1,0 +1,11 @@
+ProductName,CurrentPrice,TargetPrice,Currency,tags
+IPhone,36000,25000,NTD,"['electronics', 'smartphone', 'iphone']"
+Samsung S26,39000,32000,NTD,"['electronics', 'smartphone', 'samsung']"
+Prada Handbag,500,300,USD,"['accessories', 'women', 'handbags']"
+Coach Wristwatch,1000,800,USD,"['accessories', 'women', 'watches']"
+Chicco Stroller,15000,10000,NTD,"['baby', 'stroller', 'chicco']"
+Globber trike,15000,10000,INR,"['baby', 'cycle', 'trike', 'Globber']"
+LG Wash Tower,3000,2000,EUR,"['home', 'appliances', 'clothes']"
+LG Refrigerator,50000,43000,INR,"['home', 'appliances', 'food']"
+LG Refrigerator,50000,43000,INR,"['home', 'appliances', 'food']"
+LG Refrigerator,50000,43000,INR,"['home', 'appliances', 'food']"

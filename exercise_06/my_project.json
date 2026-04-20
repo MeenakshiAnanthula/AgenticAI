@@ -1,0 +1,113 @@
+[
+  {
+    "ProductName": "IPhone",
+    "CurrentPrice": "36000",
+    "TargetPrice": "25000",
+    "Currency": "NTD",
+    "tags": [
+      "electronics",
+      "smartphone",
+      "iphone"
+    ]
+  },
+  {
+    "ProductName": "Samsung S26",
+    "CurrentPrice": "39000",
+    "TargetPrice": "32000",
+    "Currency": "NTD",
+    "tags": [
+      "electronics",
+      "smartphone",
+      "samsung"
+    ]
+  },
+  {
+    "ProductName": "Prada Handbag",
+    "CurrentPrice": "500",
+    "TargetPrice": "300",
+    "Currency": "USD",
+    "tags": [
+      "accessories",
+      "women",
+      "handbags"
+    ]
+  },
+  {
+    "ProductName": "Coach Wristwatch",
+    "CurrentPrice": "1000",
+    "TargetPrice": "800",
+    "Currency": "USD",
+    "tags": [
+      "accessories",
+      "women",
+      "watches"
+    ]
+  },
+  {
+    "ProductName": "Chicco Stroller",
+    "CurrentPrice": "15000",
+    "TargetPrice": "10000",
+    "Currency": "NTD",
+    "tags": [
+      "baby",
+      "stroller",
+      "chicco"
+    ]
+  },
+  {
+    "ProductName": "Globber trike",
+    "CurrentPrice": "15000",
+    "TargetPrice": "10000",
+    "Currency": "INR",
+    "tags": [
+      "baby",
+      "cycle",
+      "trike",
+      "Globber"
+    ]
+  },
+  {
+    "ProductName": "LG Wash Tower",
+    "CurrentPrice": "3000",
+    "TargetPrice": "2000",
+    "Currency": "EUR",
+    "tags": [
+      "home",
+      "appliances",
+      "clothes"
+    ]
+  },
+  {
+    "ProductName": "LG Refrigerator",
+    "CurrentPrice": "50000",
+    "TargetPrice": "43000",
+    "Currency": "INR",
+    "tags": [
+      "home",
+      "appliances",
+      "food"
+    ]
+  },
+  {
+    "ProductName": "LG Refrigerator",
+    "CurrentPrice": "50000",
+    "TargetPrice": "43000",
+    "Currency": "INR",
+    "tags": [
+      "home",
+      "appliances",
+      "food"
+    ]
+  },
+  {
+    "ProductName": "LG Refrigerator",
+    "CurrentPrice": "50000",
+    "TargetPrice": "43000",
+    "Currency": "INR",
+    "tags": [
+      "home",
+      "appliances",
+      "food"
+    ]
+  }
+]
